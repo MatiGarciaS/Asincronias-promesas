@@ -8,7 +8,7 @@
     {
     title: Estudiar CSS,
     priority: alta,
-    isDone: true
+    isDone: truenode
     },
     {
     title: Estudiar OOP,
@@ -16,9 +16,9 @@
     isDone: false
     },
     {
-    title: Estudiar IA;,
+    title: Estudiar IA,
     priority: baja,
-    isDone: false
+    "isDone": false
     }
     ]
     }
