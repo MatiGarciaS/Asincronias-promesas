@@ -1,24 +1,25 @@
 {
-    results: [
+    "results": [
     {
-    title: Estudiar Js,
-    priority: alta,
-    isDone: false
+    "title": "Estudiar Js",
+    "priority": "alta",
+    "isDone": false
     },
     {
-    title: Estudiar CSS,
-    priority: alta,
-    isDone: truenode
+    "title": "Estudiar CSS",
+    "priority": "alta",
+    "isDone": true
     },
     {
-    title: Estudiar OOP,
-    priority: media,
-    isDone: false
+    "title": "Estudiar OOP",
+    "priority": "media",
+    "isDone": false
     },
     {
-    title: Estudiar IA,
-    priority: baja,
+    "title": "Estudiar IA",
+    "priority": "baja",
     "isDone": false
     }
     ]
-    }
+ }
+    
